@@ -1,4 +1,4 @@
-package com.gkdy.domain;
+﻿package com.gkdy.domain;
 
 /**
  * 作者：高空的鹰PLA
@@ -12,5 +12,7 @@ public class Person {
 
 	private String address;
 	private String ip;
+	
+	//123
 
 }
